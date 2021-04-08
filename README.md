@@ -1,2 +1,2 @@
 # ConnectionTest
-To Test Syncing
+To Test Syncing with RStudio
