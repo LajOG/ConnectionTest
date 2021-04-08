@@ -1,2 +1,2 @@
-# ConnectionTest2
+# ConnectionTest
 To Test Syncing
